@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'am soufiane dahani
 
 <!--
 **soufiane-dahani/soufiane-dahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/sodahani/badge42"><img src="https://badge.mediaplus.ma/binary/sodahani" alt="sodahani's 42 stats" width="100%" /></a>
